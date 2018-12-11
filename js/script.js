@@ -14,6 +14,8 @@ $(document).ready(function() {
         var q2Answer = breakfast(q2Result);
         var q3Answer = superpower(q3Result);
         
+        $(".congratulations").show();
+        
     });
 
 });
